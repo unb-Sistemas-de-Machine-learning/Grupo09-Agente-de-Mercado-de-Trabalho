@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Grupo 09 – Agente de Mercado de Trabalho
+site_url: https://unb-sistemas-de-machine-learning.github.io/grupo09-agente-de-mercado-de-trabalho/
+theme:
+  name: material
