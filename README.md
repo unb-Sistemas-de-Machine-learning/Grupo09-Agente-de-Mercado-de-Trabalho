@@ -10,6 +10,7 @@
 <p style="text-align: center; margin-bottom: 50px;">
   <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2025</b>
 </p>
+
 </div>
 
 ## Sobre o projeto
@@ -21,16 +22,14 @@ Link para a nossa documentação do projeto: [Clique Aqui](https://unb-sistemas-
 
 ## Equipe
 
-Segue os nomes dos colaboradores da equipe logo abaixo.
-
 <div align="center">
 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/gabriel-lima258 "><img style="border-radius: 50%;" src="https://github.com/gabriel-lima258.png" width="100px;" alt=""/><br/><sub><b>Gabriel Lima</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/EliasOliver21 "><img style="border-radius: 50%;" src="https://github.com/EliasOliver21.png" width="100px;" alt=""/><br/><sub><b>Elias Oliveira</b></sub></a><br/>
   </tr>
+  
 </table>
-
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Integrantes da equipe</p></font>
 
 </div>
