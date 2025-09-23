@@ -17,7 +17,7 @@
 
 ## Documentação
 
-Link para a nossa documentação do projeto: [Clique Aqui](https://unb-Sistemas-de-Machine-learning.github.io/Grupo09-Agente-de-Mercado-de-Trabalho/) <br>
+Link para a nossa documentação do projeto: [Clique Aqui](https://unb-sistemas-de-machine-learning.github.io/Grupo09-Agente-de-Mercado-de-Trabalho/) <br>
 
 ## Equipe
 
