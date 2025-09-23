@@ -2,7 +2,48 @@ site_name: Grupo 09 – Agente de Mercado de Trabalho
 site_url: https://unb-sistemas-de-machine-learning.github.io/Grupo09-Agente-de-Mercado-de-Trabalho/
 repo_url: https://github.com/unb-sistemas-de-machine-learning/Grupo09-Agente-de-Mercado-de-Trabalho
 
-theme:
-  name: material
 nav:
-  - Início: index.md
+  - Equipe: index.md
+  - Design Thinking: Design_thinking/design_thinking.md
+
+extra_css:
+  - stylesheets/extra.css
+theme:
+  language: pt-BR
+  name: material
+  favicon: assets/logo_agente.jpeg
+  logo: assets/logo_agente.jpeg
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme : default
+      primary: blue
+      accent: custom
+      toggle:
+        icon: material/toggle-switch
+        name: Mudar para o modo escuro 
+
+    - scheme: slate
+      primary: blue
+      accent: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Mudar para o modo claro
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+extra:
+  analytics:
+    provider: google
+    property: G-7QVWYC7EZJ
