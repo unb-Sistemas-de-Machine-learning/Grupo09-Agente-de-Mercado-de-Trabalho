@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-<img src="#" alt="Logo Celular Seguro" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="docs/assets/logo_agente.png" alt="Logo Celular Seguro" style=" max-width: 30%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2025</b>
+  <b>Fonte: <a href="https://www.flaticon.com/br/">Flaticon.com </a> , 2025</b>
 </p>
 
 </div>
