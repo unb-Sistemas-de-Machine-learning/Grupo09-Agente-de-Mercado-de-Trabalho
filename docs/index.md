@@ -3,10 +3,10 @@
 ## Introdução
 
 <font size="2"><p style="text-align: center"> Figura 1 - Logo da aplicação. </p></font>
-<center><img style="border: 1px solid white; border-radius: 10%" src="assets/logo_agente.jpeg" width = 40%></center>
+<center><img style="border: 1px solid white; border-radius: 10%" src="assets/logo_agente.png" width = 40%></center>
 <font size="2"><p style="text-align: center"> Fonte: Gerado por I.A.</p></font>
 
-Está página tem como objetico documentar o processo de desenvolvimento da aplicação "Agente de Mercado de Trabalho", sendo resultado da aplicação dos conhecimentos da disciplina "Tópicos de Engenharia de Software", ministrada pela professora: Carla Rocha.
+Está página tem como objetivo documentar o processo de desenvolvimento da aplicação "Agente de Mercado de Trabalho", sendo resultado da aplicação dos conhecimentos da disciplina "Tópicos Especiais de Engenharia de Software", ministrada pela professora: Carla Rocha. O agente de mercado, será um chatbot assistente que irá responder a questões relacionadas a empregabilidade dentro do segmento da tecnologia, no Distrito Federal. O agente forcenerá diversas funcionalidade, incluindo: previsão de fornecimento de vagas, estado atual de setores da tecnologia (estável, ascensão, descensão), cursos de tecnologia que estão em alta e outras.
 
 
 ## Integrantes
