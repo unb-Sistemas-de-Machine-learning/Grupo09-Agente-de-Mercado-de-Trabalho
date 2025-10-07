@@ -38,7 +38,7 @@ A aplicação utiliza **modelos de aprendizado de máquina (Machine Learning)** 
 
 A documentação oficial do projeto (incluindo os artefatos do framework **PIM-Go** e o **Machine Learning Canvas**) está disponível no link abaixo:
 
-👉 **[Acesse a Documentação do PrediAluguel](https://unb-sistemas-de-machine-learning.github.io/Grupo09-Agente-de-Mercado-de-Trabalho/)**  
+👉 **[Acesse a Documentação do PrediAluguel](https://unb-sistemas-de-machine-learning.github.io/Grupo09-PrediAluguel/)**  
 
 ---
 
