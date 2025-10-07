@@ -4,7 +4,9 @@ repo_url: https://github.com/unb-sistemas-de-machine-learning/Grupo09-Agente-de-
 
 nav:
   - Equipe: index.md
-  - Design Thinking: Design_thinking/design_thinking.md
+  - Engenharia de Requisitos: 
+    - Artefatos: "Design_thinking/design_thinking.md"
+   
 
 extra_css:
   - stylesheets/extra.css
