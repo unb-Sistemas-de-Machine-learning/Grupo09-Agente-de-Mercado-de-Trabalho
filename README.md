@@ -1,4 +1,4 @@
-# Agente de Mercado de Trabalho
+# PrediAluguel
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Logo Agente</b></p></font>
 </div>
