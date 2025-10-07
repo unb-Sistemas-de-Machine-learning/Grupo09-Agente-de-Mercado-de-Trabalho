@@ -6,6 +6,7 @@ nav:
   - Equipe: index.md
   - Engenharia de Requisitos: 
     - Requisitos do Projeto: "Design_thinking/requisitosProduto.md"
+    - Requisitos de Maquine Learning: "Design_thinking/requisitosML.md"
     - Artefatos: "Design_thinking/design_thinking.md"
    
 
