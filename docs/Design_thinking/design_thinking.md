@@ -1,6 +1,6 @@
 # Artefatos
 
-## 1. Introdução
+## **1. Introdução**
 
 Este documento tem como objetivo apresentar e detalhar os artefatos criados durante a fase inicial de concepção do projeto **Predição de Valor de Aluguel de Imóveis com IA**.
 
@@ -10,7 +10,7 @@ A fase de concepção foi fundamental para transformar uma necessidade do mercad
 
 ---
 
-## 2. Framework e Ferramentas Utilizadas
+## **2. Framework e Ferramentas Utilizadas**
 
 A metodologia de concepção foi apoiada pelo framework **PIM-Go (Product Integration Model)**, que fornece modelos e templates para guiar o processo de design de produto de forma sistemática.  
 Adicionalmente, foram utilizadas ferramentas de apoio à modelagem de **Machine Learning**, para estruturar o núcleo de IA responsável pela predição dos valores.
@@ -28,7 +28,7 @@ Adicionalmente, foram utilizadas ferramentas de apoio à modelagem de **Machine 
 
 ---
 
-## 3. Detalhamento dos Artefatos
+## **3. Detalhamento dos Artefatos**
 
 ### 3.1. Artefato 1 – Design Thinking: Causes Canvas
 
@@ -54,6 +54,7 @@ Foi utilizado para decompor o problema principal de **falta de transparência e 
 ![Diagrama- Design Thinking - Cause](../assets/diagrams/fish.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
+
 ---
 
 ### 3.2. Artefato 2 – Design Thinking: Ideas Canvas
@@ -78,6 +79,7 @@ A ferramenta foi usada para converter o problema de precificação desigual em u
 ![Diagrama- Design Thinking - Ideas](../assets/diagrams/ideas.png) 
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
+
 ---
 
 ### 3.3. Artefato 3 – Idea Filter Canvas
@@ -105,6 +107,7 @@ O filtro foi usado para avaliar as ideias levantadas no *Ideas Canvas* e determi
 ![Diagrama- Design Thinking - Filter](../assets/diagrams/filter.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
+
 ---
 
 ### 3.4. Artefato 4 – Parking Lot of Ideas
@@ -127,6 +130,7 @@ O *Parking Lot* serviu como repositório de todas as funcionalidades e component
 ![Diagrama- Design Thinking - Parking Lot](../assets/diagrams/parking.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
+
 ---
 
 ### 3.5. Artefato 5 – Machine Learning Canvas
@@ -155,7 +159,7 @@ Foi usado para estruturar o modelo preditivo de preços de aluguel, conectando o
 
 ---
 
-## 4. Conclusão
+## **4. Conclusão**
 
 A aplicação sistemática do framework **PIM-Go** e dos canvas de concepção permitiu transformar uma necessidade do mercado imobiliário em um projeto de IA estruturado e validado.  
 

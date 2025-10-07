@@ -1,15 +1,31 @@
-# Agente de Mercado de Trabalho
-
-## Introdução
+# **Predição de Valor de Aluguel com IA**
 
 <font size="2"><p style="text-align: center"> Figura 1 - Logo da aplicação. </p></font>
 <center><img style="border: 1px solid white; border-radius: 10%" src="assets/logo_agente.png" width = 40%></center>
 <font size="2"><p style="text-align: center"> Fonte: Gerado por I.A.</p></font>
 
-Está página tem como objetivo documentar o processo de desenvolvimento da aplicação "Agente de Mercado de Trabalho", sendo resultado da aplicação dos conhecimentos da disciplina "Tópicos Especiais de Engenharia de Software", ministrada pela professora: Carla Rocha. O agente de mercado, será um chatbot assistente que irá responder a questões relacionadas a empregabilidade dentro do segmento da tecnologia, no Distrito Federal. O agente forcenerá diversas funcionalidade, incluindo: previsão de fornecimento de vagas, estado atual de setores da tecnologia (estável, ascensão, descensão), cursos de tecnologia que estão em alta e outras.
+## **Sobre o Projeto**
+
+Este projeto apresenta o desenvolvimento do sistema **Predição de Valor de Aluguel com Inteligência Artificial**, resultado da aplicação dos conceitos aprendidos na disciplina **“Tópicos Especiais de Engenharia de Software”**, ministrada pela professora **Carla Rocha**.
+
+A aplicação tem como propósito criar uma **plataforma inteligente capaz de estimar o valor justo de aluguel de imóveis** com base em dados públicos, como localização, área construída, número de quartos e infraestrutura urbana.
+
+O sistema utiliza **modelos de aprendizado de máquina (Machine Learning)** para aprender padrões do mercado e gerar estimativas rápidas, confiáveis e transparentes.  
+Seu objetivo é **reduzir a assimetria de informação** entre locadores e locatários, promovendo **transparência e eficiência no mercado imobiliário**.
+
+---
+
+## **Objetivos**
+
+- Estimar automaticamente o valor justo de aluguel.  
+- Fornecer comparativos de mercado por bairro e cidade.  
+- Apoiar decisões de corretores e inquilinos com base em dados reais.  
+- Democratizar o acesso à informação imobiliária.  
+
+---
 
 
-## Integrantes
+## **Integrantes**
 
 <table>
   <tr>
