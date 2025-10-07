@@ -1,6 +1,6 @@
-site_name: Grupo 09 – Agente de Mercado de Trabalho
-site_url: https://unb-sistemas-de-machine-learning.github.io/Grupo09-Agente-de-Mercado-de-Trabalho/
-repo_url: https://github.com/unb-sistemas-de-machine-learning/Grupo09-Agente-de-Mercado-de-Trabalho
+site_name: Grupo 09 – PrediAluguel 
+site_url: https://unb-sistemas-de-machine-learning.github.io/Grupo09-PrediAluguel/
+repo_url: https://github.com/unb-Sistemas-de-Machine-learning/Grupo09-PrediAluguel
 
 nav:
   - Equipe: index.md
