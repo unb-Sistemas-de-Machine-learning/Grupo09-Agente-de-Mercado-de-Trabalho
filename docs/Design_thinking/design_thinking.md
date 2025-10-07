@@ -54,7 +54,6 @@ Foi utilizado para decompor o problema principal de **falta de transparência e 
 ![Diagrama- Design Thinking - Cause](../assets/diagrams/fish.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
-
 ---
 
 ### 3.2. Artefato 2 – Design Thinking: Ideas Canvas
@@ -79,7 +78,6 @@ A ferramenta foi usada para converter o problema de precificação desigual em u
 ![Diagrama- Design Thinking - Ideas](../assets/diagrams/ideas.png) 
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
-
 ---
 
 ### 3.3. Artefato 3 – Idea Filter Canvas
@@ -107,7 +105,6 @@ O filtro foi usado para avaliar as ideias levantadas no *Ideas Canvas* e determi
 ![Diagrama- Design Thinking - Filter](../assets/diagrams/filter.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
-
 ---
 
 ### 3.4. Artefato 4 – Parking Lot of Ideas
@@ -130,7 +127,6 @@ O *Parking Lot* serviu como repositório de todas as funcionalidades e component
 ![Diagrama- Design Thinking - Parking Lot](../assets/diagrams/parking.png)
 
 <font size="2"><p style="text-align: center"><b>Fonte:  <a href="https://github.com/EliasOliver21">Elias Oliveira</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></b></p></font>
-
 ---
 
 ### 3.5. Artefato 5 – Machine Learning Canvas
