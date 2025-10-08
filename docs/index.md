@@ -6,20 +6,21 @@
 
 ## **Sobre o Projeto**
 
-Este projeto apresenta o desenvolvimento do sistema **Predição de Valor de Aluguel com Inteligência Artificial**, resultado da aplicação dos conceitos aprendidos na disciplina **“Tópicos Especiais de Engenharia de Software”**, ministrada pela professora **Carla Rocha**.
+Este projeto apresenta o desenvolvimento de um sistema de **predição** e **precificação** de imóveis, e **feedback** sobre um imóvel específico com Inteligência Artificial, resultado da aplicação dos conceitos aprendidos na disciplina **“Tópicos Especiais de Engenharia de Software”**, ministrada pela professora **Carla Rocha**.
 
-A aplicação tem como propósito criar uma **plataforma inteligente capaz de estimar o valor justo de aluguel de imóveis** com base em dados públicos, como localização, área construída, número de quartos e infraestrutura urbana.
+A aplicação tem como propósito criar uma plataforma inteligente capaz de estimar o valor justo de aluguel de imóveis com base em dados públicos, como localização, área construída, número de quartos e infraestrutura urbana, bem como prever quais as possíveis variações de preço de imóveis para alguma região específica e prover ao usuário um feedback sobre a relação custo x benefício de um imóvel, considerando as características deste.
 
-O sistema utiliza **modelos de aprendizado de máquina (Machine Learning)** para aprender padrões do mercado e gerar estimativas rápidas, confiáveis e transparentes.  
-Seu objetivo é **reduzir a assimetria de informação** entre locadores e locatários, promovendo **transparência e eficiência no mercado imobiliário**.
+O sistema utiliza modelos de aprendizado de máquina (Machine Learning) para aprender padrões do mercado e gerar estimativas rápidas, confiáveis e transparentes.  
+Seu objetivo é reduzir a assimetria de informação entre locadores e locatários, promovendo transparência e eficiência no mercado imobiliário.
 
 ---
 
 ## **Objetivos**
 
-- Estimar automaticamente o valor justo de aluguel.  
-- Fornecer comparativos de mercado por bairro e cidade.  
-- Apoiar decisões de corretores e inquilinos com base em dados reais.  
+- Estimar automaticamente o valor justo de aluguel;
+- Fornecer comparativos de mercado por bairro e cidade;  
+- Prover um feedback estruturado e objetivo sobre o custo x benefício de um imóvel;
+- Prever a variação de valor de imóveis em determinadas regiões;
 - Democratizar o acesso à informação imobiliária.  
 
 ---
