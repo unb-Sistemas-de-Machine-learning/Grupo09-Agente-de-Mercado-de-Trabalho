@@ -11,7 +11,7 @@
 
 ## Sobre o Projeto
 
-O **PrediAluguel** é uma aplicação de Inteligência Artificial desenvolvida para estimar o valor justo de aluguel e de compra de imóveis e forcener , com base em dados públicos e padrões reais do mercado.
+O **PrediAluguel** é uma aplicação de Inteligência Artificial desenvolvida para estimar o valor justo de aluguel e de compra de imóveis e forcener, com base em dados públicos e padrões reais do mercado.
 
 A iniciativa nasce com o propósito de reduzir a assimetria de informações no setor imobiliário, prover uma facilitação da análise do custo x benefício de um imóvel e também fornecer uma previsão sobre preços futuros. Com isso, o sistema promove a transparência, acessibilidade, eficiência para locadores, locatários, vendedores e adquirentes de imóveis.
 
@@ -62,6 +62,13 @@ A documentação oficial do projeto (incluindo os artefatos do framework PIM-Go 
         <sub><b>Elias Oliveira</b></sub>
       </a><br/>
       <sub>Engenharia de Dados / ML</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mateusvasconcelos182">
+        <img style="border-radius: 50%;" src="https://github.com/mateusvasconcelos182.png" width="100px;" alt=""/><br/>
+        <sub><b>Mateus Vasconcelos</b></sub>
+      </a><br/>
+      <sub>Engenharia de Dados</sub>
     </td>
   </tr>
 </table>
