@@ -32,7 +32,9 @@ Seu objetivo é reduzir a assimetria de informação entre locadores e locatári
   <tr>
     <td align="center"><a href="https://github.com/gabriel-lima258 "><img style="border-radius: 50%;" src="https://github.com/gabriel-lima258.png" width="100px;" alt=""/><br/><sub><b>Gabriel Lima</b></sub></a><br/>
     <td align="center"><a href="https://github.com/EliasOliver21 "><img style="border-radius: 50%;" src="https://github.com/EliasOliver21.png" width="100px;" alt=""/><br/><sub><b>Elias Oliveira</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/mateusvasconcelos182 "><img style="border-radius: 50%;" src="https://github.com/mateusvasconcelos182.png" width="100px;" alt=""/><br/><sub><b>Mateus Vasconcelos</b></sub></a><br/>
   </tr>
+
   
 </table>
 
