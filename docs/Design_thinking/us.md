@@ -1,6 +1,6 @@
 # Definição das Histórias de Usuário (US)
 
-## 1. História do Usuárioo
+## 1. História do Usuário
 
 ### **US 1 – Precificação**
 
