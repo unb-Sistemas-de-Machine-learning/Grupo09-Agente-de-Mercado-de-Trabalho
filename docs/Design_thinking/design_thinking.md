@@ -171,5 +171,5 @@ Essa base fornece segurança para avançar para as próximas etapas de **prototi
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:|
-|`1.0`| 23/09/2025 | Criação do documento | [Elias Oliveira](https://github.com/EliasOliver21), [Mateus]() e [Gabriel]() | []()|
-|`2.0`| 07/10/2025 | Reformulação dos artefatos | [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus]() e [Gabriel]() | []()|
+|`1.0`| 23/09/2025 | Criação do documento | [Elias Oliveira](https://github.com/EliasOliver21), [Mateus]() | []()|
+|`2.0`| 07/10/2025 | Reformulação dos artefatos | [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus]() | []()|

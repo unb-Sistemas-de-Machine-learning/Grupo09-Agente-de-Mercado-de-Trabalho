@@ -20,3 +20,8 @@ A tabela a seguir detalha as colunas essenciais, suas fontes e o propósito no c
 | `hoa` (Condomínio) | Feature (X) | Numérico Contínuo | Zap Imóveis Dataset (Kaggle/Scrapping) | O valor da taxa de condomínio é um forte preditor de luxo/infraestrutura. |
 | **`price_per_sqm`** | Feature Criada (X) | Numérico Contínuo | *Feature Engineering* | Criada para capturar a densidade de preço e padronizar o valor. |
 | **`deviation_pct`** | Métrica de Saída | Numérico Contínuo | *Feature Engineering* (Regra) | Métrica usada para a funcionalidade **Custo-Benefício** (Regras: Desvio em relação à predição). |
+
+## Histórico de versões
+| Versão | Data | Descrição | Autor | Revisor
+| :-: | :-: | :-: | :-: | :-:|
+|`1.0`| 13/10/2025 | Criação do documento | [Mateus]() | [Gabriel Lima](https://github.com/gabriel-lima258) |

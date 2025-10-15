@@ -4,6 +4,8 @@ repo_url: https://github.com/unb-Sistemas-de-Machine-learning/Grupo09-PrediAlugu
 
 nav:
   - Equipe: index.md
+  - Cronograma: 
+    - Sprints: "Planejamento/cronograma.md"
   - Engenharia de Requisitos: 
     - Requisitos do Projeto: "Design_thinking/requisitosProduto.md"
     - Requisitos de Maquine Learning: "Design_thinking/requisitosML.md"

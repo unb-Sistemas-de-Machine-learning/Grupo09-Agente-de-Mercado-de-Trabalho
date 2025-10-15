@@ -87,4 +87,4 @@ Esses requisitos complementam os requisitos funcionais e não funcionais do sist
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:|
-|`1.0`| 07/10/2025 | Criação da página | [Gabriel Lima](https://github.com/gabriel-lima258), [Mateus]() e [Gabriel]() | []()|
+|`1.0`| 07/10/2025 | Criação da página | [Gabriel Lima](https://github.com/gabriel-lima258) | [Mateus](), [Elias]()|

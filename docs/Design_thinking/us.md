@@ -70,3 +70,8 @@ Este cronograma sugere a alocação de esforço focado na entrega do MVP e no pl
 | **Fase 2: Desenvolvimento do MVP (Regressão)** | Engenharia de *Features*, Treinamento, Otimização e Implementação da API de **Precificação**. Criação da **Métrica de Custo-Benefício**. | US 1, US 3 | 30% |
 | **Fase 3: Incremento 1 (Séries Temporais)** | Estruturação da Série Temporal, Treinamento do Modelo de **Previsão** e desenvolvimento da **US 2**. Criação da interface de **Feedback (US 4)**. | US 2, US 4 | 30% |
 
+## Histórico de versões
+| Versão | Data | Descrição | Autor | Revisor
+| :-: | :-: | :-: | :-: | :-:|
+|`1.0`| 13/10/2025 | Criação do documento | [Mateus]() | [Gabriel Lima](https://github.com/gabriel-lima258) |
+
