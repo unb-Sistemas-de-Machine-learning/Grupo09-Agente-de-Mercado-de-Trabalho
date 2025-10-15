@@ -45,4 +45,4 @@ Seu objetivo é reduzir a assimetria de informação entre locadores e locatári
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:|
-|`1.0`| 23/09/2025 | Criação do documento | [Elias Oliveira](https://github.com/EliasOliver21) | []()|
+|`1.0`| 23/09/2025 | Criação do documento | [Elias Oliveira](https://github.com/EliasOliver21) | []()|'
